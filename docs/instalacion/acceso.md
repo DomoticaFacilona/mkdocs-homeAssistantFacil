@@ -4,7 +4,7 @@ Ya tienes instalado Home Assistant, puedes acceder a el en local, pero te gustar
 
 ## Acceder usando NabuCasa 
 
-¿Que es <a href="https://www.nabucasa.com/" target="_blank">Nabu Casa?</a>, es la nube que provee la organización de Home Assistant para que puedas acceder directamente desde fuera de tu casa, sin preocupaciones y apenas esfuerzos, tiene un coste de unos 5€ mensuales, que van dedicados a pagar a todos los desarrolladores que trabajan en mejorar todo el universo de Home Assistant. Si te lo puedes permitir, ¿que mejor forma de aportar al proyecto?.
+¿Que es <a href="https://www.nabucasa.com/" target="_blank">Nabu Casa?</a>, es la nube que provee la organización de Home Assistant para que puedas acceder directamente desde fuera de tu casa, sin preocupaciones y apenas esfuerzos, tiene un coste de unos 5,8€ mensuales, que van dedicados a pagar a todos los desarrolladores que trabajan en mejorar todo el universo de Home Assistant. Si te lo puedes permitir, ¿que mejor forma de aportar al proyecto?.
 
 Puedes probar un mes gratuito y evaluar si te interesa, además permite la integración de los altavoces de Alexa y Google de una forma muy sencilla. También se pueden integrar sin necesidad de la nube, en el caso de Alexa lleva trabajo adicional.
 
@@ -18,7 +18,7 @@ Sin duda es la opción preferida por el grupo, permite redirigir varios servicio
 
     * Un dominio propio, puedes crerarlo gratuitamente con <a href="https://jungle-team.com/crear-dominio-con-duckdns/" target="_blank">** DuckDns ** </a>, o usar el de tu propio <a href="/red/mikrotik#usar-dominio-de-mikrotik-para-acceder-a-home-assistant-ssl" target="_blank">** router ** </a> si te lo proporciona. (Mikrotik)
 
-Instalar y configurar el addon Nginx Proxy Manager siguiendo la pestaña documentación del addon. Para que este addon funcione debes tener instalado el addon mariaDB.
+Instalar y configurar el addon Nginx Proxy Manager siguiendo la pestaña documentación del addon.
 
 <figure markdown> 
   ![Nginx Proxy Manaer](img/addonNginx.png){ width="300" }
